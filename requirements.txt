@@ -1,0 +1,7 @@
+pdf2image
+pytesseract
+pymupdf
+opencv-python
+numpy
+gradio
+flask
